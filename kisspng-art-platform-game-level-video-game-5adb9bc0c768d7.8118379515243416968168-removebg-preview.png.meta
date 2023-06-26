@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: bae25b6e8a1fc0240b99567b710f8d1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_0
+  - first:
+      213: 21300002
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_1
+  - first:
+      213: 21300004
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_2
+  - first:
+      213: 21300006
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_3
+  - first:
+      213: 21300008
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_4
+  - first:
+      213: 21300010
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_5
+  - first:
+      213: 21300012
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_6
+  - first:
+      213: 21300014
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_7
+  - first:
+      213: 21300016
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_8
+  - first:
+      213: 21300018
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_9
+  - first:
+      213: 21300020
+    second: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 232
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfdc5e34b2bde4c86a4eaa2729252a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 229
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a297b0a7041edcd47b47b10c23d35d7c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9ca769f5da1949a34fc259ee3ab6d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 395
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28854bcfd00bdc4489888bef9964295
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 395
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcad7dd733f074eb977369f127c8f1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 393
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9884b2ec08e29dd42b7ad7a78a1d2375
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 358
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271024dda047984a98afa53c9501e38
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 322
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac741438d4e1f3c4b89c3017bd536544
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 320
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf2265100e27a44a761db16172f9f1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 169
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807e2ed3f5019d4184116e7d06b0811
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-art-platform-game-level-video-game-5adb9bc0c768d7.8118379515243416968168-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba445817f05f24885808f093724fe2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa897899cc6463e4fa59c740d2f2ca3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
